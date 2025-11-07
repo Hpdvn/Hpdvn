@@ -47,6 +47,5 @@
 
 ---
 
-⭐️ _“Build systems that learn, adapt, and scale — that’s where the real engineering begins.”_
 
 </div>
